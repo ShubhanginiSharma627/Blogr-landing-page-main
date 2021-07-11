@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/shubhanginisharma627/Blogr-landing-page-main/static/css/main.281cae80.chunk.css",
+    "main.js": "/shubhanginisharma627/Blogr-landing-page-main/static/js/main.c004f9d7.chunk.js",
+    "main.js.map": "/shubhanginisharma627/Blogr-landing-page-main/static/js/main.c004f9d7.chunk.js.map",
+    "runtime-main.js": "/shubhanginisharma627/Blogr-landing-page-main/static/js/runtime-main.81589e21.js",
+    "runtime-main.js.map": "/shubhanginisharma627/Blogr-landing-page-main/static/js/runtime-main.81589e21.js.map",
+    "static/js/2.02bc769c.chunk.js": "/shubhanginisharma627/Blogr-landing-page-main/static/js/2.02bc769c.chunk.js",
+    "static/js/2.02bc769c.chunk.js.map": "/shubhanginisharma627/Blogr-landing-page-main/static/js/2.02bc769c.chunk.js.map",
+    "index.html": "/shubhanginisharma627/Blogr-landing-page-main/index.html",
+    "static/css/main.281cae80.chunk.css.map": "/shubhanginisharma627/Blogr-landing-page-main/static/css/main.281cae80.chunk.css.map",
+    "static/js/2.02bc769c.chunk.js.LICENSE.txt": "/shubhanginisharma627/Blogr-landing-page-main/static/js/2.02bc769c.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-circles.bae804b8.svg": "/shubhanginisharma627/Blogr-landing-page-main/static/media/bg-pattern-circles.bae804b8.svg",
+    "static/media/bg-pattern-intro.bf6b3e1b.svg": "/shubhanginisharma627/Blogr-landing-page-main/static/media/bg-pattern-intro.bf6b3e1b.svg",
+    "static/media/illustration-editor-desktop.c6c8050a.svg": "/shubhanginisharma627/Blogr-landing-page-main/static/media/illustration-editor-desktop.c6c8050a.svg",
+    "static/media/illustration-editor-mobile.b9c7941a.svg": "/shubhanginisharma627/Blogr-landing-page-main/static/media/illustration-editor-mobile.b9c7941a.svg",
+    "static/media/illustration-laptop-desktop.799209c2.svg": "/shubhanginisharma627/Blogr-landing-page-main/static/media/illustration-laptop-desktop.799209c2.svg",
+    "static/media/illustration-laptop-mobile.fe1ec0f0.svg": "/shubhanginisharma627/Blogr-landing-page-main/static/media/illustration-laptop-mobile.fe1ec0f0.svg",
+    "static/media/illustration-phones.fd23559f.svg": "/shubhanginisharma627/Blogr-landing-page-main/static/media/illustration-phones.fd23559f.svg",
+    "static/media/logo.1591bc20.svg": "/shubhanginisharma627/Blogr-landing-page-main/static/media/logo.1591bc20.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81589e21.js",
+    "static/js/2.02bc769c.chunk.js",
+    "static/css/main.281cae80.chunk.css",
+    "static/js/main.c004f9d7.chunk.js"
+  ]
+}
